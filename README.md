@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karishma0210
 - 👀 I’m interested in building Python/ Java projects
-- 🌱 I’m currently learning Android App Development using Kotlin
+- 🌱 I’m currently enhancing my skills, doing some projects.
 <!--- 💞️ I’m looking to collaborate on Let's see --->
 - 📫 You can reach me at - https://www.linkedin.com/in/karishmasukhwani/ or email me at - karishma.sk02@gmail.com
 
