@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karishma0210
-- 👀 I work with Python & Java mainly for full stack development.
+- 👀 I can speak multiple languages and even programming languages!!!
 - 🌱 I’m currently adding Data Science and Machine Learning skills in my bucket ;P
 <!--- 💞️ I’m looking to collaborate on Let's see --->
 - 👩‍💻 You can contact me for any collaberation or full software development project.
