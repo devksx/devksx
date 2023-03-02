@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Karishma0210
-- 👀 I can speak multiple languages and even programming languages!!!
-- 🌱 I’m currently adding Data Science and Machine Learning skills in my bucket ;P
-<!--- 💞️ I’m looking to collaborate on Let's see --->
-- 👩‍💻 You can contact me for any collaberation or full software development project.
+- 👋 Hi, I’m @devksx
+- 👀 I am backend developer with experience in Python & NodeJs, but I am open to work with various languages.
+- 🌱 I have fundamental data exploration & Machine Learning skills and enthusiastic to implement it whenever possible.
+- 🎯 Aim is to always learn, grow and create positive environment around myself 😊.
+- 👩‍💻 You can contact me for any collaberation, questions or software development projects.
 - 👩 https://www.linkedin.com/in/karishmasukhwani/ or 📧 email me at - im.skarishma@gmail.com.
 
 <!---
